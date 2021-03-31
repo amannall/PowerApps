@@ -1,11 +1,9 @@
-Conference Management Solution
+Desk Reservation Application
 
-This solution contains everything you need to manage a virtual or in-person conference.  It includes a Model Driven application to manage conference sessions, registrations and evaluations, as well as a Canvas application for users to browse a session catalog and register for sessions.
+Follow the instructions in the readme.md file within the folder for details of how to provision and deliver this app.
 
-Install Instructions
+Based on an original by April Dunham, modified and updated by Adrian Mannall, March 2021.
 
-1.  Download the included Zip file.
-2.  Go to make.powerapps.com 
-3.  Click on the Solutions tab
-4.  Select the "Import Solution" button
-5.  Run through the set up and your solution is ready to use!
+For details of the original app see https://github.com/aprildunnam/PowerApps/tree/master/Desk%20Reservation%20Template
+
+For a video of the deployment authored by April see https://youtu.be/zroxwXpVhHI
